@@ -1,0 +1,7 @@
+{
+  "name": "Аттестация барберов BRITVA",
+  "description": "Веб-приложение для проведения аттестаций барберов сети BRITVA с генерацией официального PDF-бланка и отправкой отчета в Telegram.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+

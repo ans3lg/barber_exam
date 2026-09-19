@@ -1,0 +1,67 @@
+{
+  "exams": [
+    {
+      "candidateName": "Иван Петров",
+      "branch": "BRITVA Тверская",
+      "phone": "+7 (999) 111-22-33",
+      "grade": "Барбер+",
+      "whyBritva": "Развитие в сильной команде",
+      "communitySubscribed": true,
+      "lifeParticipation": true,
+      "dislikedService": "детские капризы",
+      "branchChanges": "добавить кресла",
+      "masterclasses": {
+        "skinTypesFaceMassage": true,
+        "hotWax": false,
+        "trichology": true,
+        "sales": false,
+        "serviceCommunication": false,
+        "longHairDesign": true,
+        "fading": false,
+        "toning": false
+      },
+      "theoryQuestions": [
+        {
+          "id": "q1",
+          "text": "Строение волоса",
+          "passed": true
+        },
+        {
+          "id": "q2",
+          "text": "Техника фейдинга",
+          "passed": true
+        }
+      ],
+      "theoryStatus": "Сдал",
+      "theoryNotes": "Отличные знания базовой трихологии и фейда",
+      "practice": {
+        "meeting": true,
+        "chairWork": true,
+        "sinkWork": true,
+        "notes": "Уверенная посадка гостя"
+      },
+      "additionalServices": {
+        "wax": true,
+        "scalpHairCare": true,
+        "faceCare": false,
+        "toning": true
+      },
+      "completionNotes": "Соблюдены стандарты BRITVA",
+      "overallResult": "Аттестован",
+      "examinerName": "Александр Смирнов",
+      "id": "exam-1789210165229",
+      "createdAt": "2026-09-12T10:49:25.229Z",
+      "pdfUrl": "/api/exams/exam-1789210165229/pdf",
+      "pdfPath": "/app/applet/data/pdfs/exam-exam-1789210165229.pdf",
+      "telegramStatus": {
+        "attempted": false,
+        "sent": false,
+        "message": "Telegram не настроен (укажите Bot Token и Chat ID в Настройках или .env)."
+      }
+    }
+  ],
+  "settings": {
+    "telegramBotToken": "",
+    "telegramChatId": ""
+  }
+}
